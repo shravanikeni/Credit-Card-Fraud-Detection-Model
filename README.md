@@ -12,3 +12,28 @@ This project implements a machine learning model for detecting fraudulent credit
 ## Dataset :
 You can download the dataset from [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
+## Running the Streamlit App
+
+To run the Streamlit app for detecting fraudulent credit card transactions, follow these steps:
+
+1. **Install Streamlit**: If you haven't already, install Streamlit using pip:
+ 
+2. **Clone the Repository**: Clone this GitHub repository to your local machine:
+  
+3. **Navigate to the Project Directory**: Change your working directory to the project directory:
+   
+4. **Run the Streamlit App**: Start the Streamlit app by running the following command:
+
+5. **Interact with the App**: Once the app is running, open your web browser and navigate to the URL displayed in the terminal to interact with the app.
+
+6. **Predict Fraudulent Transactions**: Enter transaction details in the input field and click the "Predict" button to see the model's prediction for fraudulence.
+
+7. **Stop the Streamlit App**: To stop the Streamlit app, press `Ctrl + C` in the terminal where the app is running.
+
+Note: Ensure that you have the necessary Python packages installed and the `creditcard.csv` dataset available in the project directory before running the Streamlit app.
+
+
+
+   
+
+
