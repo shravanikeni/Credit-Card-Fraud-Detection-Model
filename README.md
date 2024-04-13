@@ -22,19 +22,25 @@ To run the Streamlit app for detecting fraudulent credit card transactions, foll
 
 
  
-3. **Clone the Repository**: Clone this GitHub repository to your local machine: git clone https://github.com/your-username/your-repository.git
+2. **Clone the Repository**: Clone this GitHub repository to your local machine:
+   ```sh
+   git clone https://github.com/your-username/your-repository.git
   
-4. **Navigate to the Project Directory**: Change your working directory to the project directory: cd your-repository
+3. **Navigate to the Project Directory**: Change your working directory to the project directory:
+   ```sh
+   cd your-repository
 
 
    
-5. **Run the Streamlit App**: Start the Streamlit app by running the following command:  streamlit run app.py
+4. **Run the Streamlit App**: Start the Streamlit app by running the following command:
+   ```sh
+   streamlit run app.py
 
-6. **Interact with the App**: Once the app is running, open your web browser and navigate to the URL displayed in the terminal to interact with the app.
+5. **Interact with the App**: Once the app is running, open your web browser and navigate to the URL displayed in the terminal to interact with the app.
 
-7. **Predict Fraudulent Transactions**: Enter transaction details in the input field and click the "Predict" button to see the model's prediction for fraudulence.
+6. **Predict Fraudulent Transactions**: Enter transaction details in the input field and click the "Predict" button to see the model's prediction for fraudulence.
 
-8. **Stop the Streamlit App**: To stop the Streamlit app, press `Ctrl + C` in the terminal where the app is running.
+7. **Stop the Streamlit App**: To stop the Streamlit app, press `Ctrl + C` in the terminal where the app is running.
 
 Note: Ensure that you have the necessary Python packages installed and the `creditcard.csv` dataset available in the project directory before running the Streamlit app.
 
