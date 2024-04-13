@@ -1,5 +1,3 @@
-# Credit-Card-Fraud-Detection-Model
-
 # Project: Fraudulent Credit Card Transaction Detection
 
 ## Description
