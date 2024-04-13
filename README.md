@@ -42,7 +42,7 @@ To run the Streamlit app for detecting fraudulent credit card transactions, foll
 
 7. **Stop the Streamlit App**: To stop the Streamlit app, press `Ctrl + C` in the terminal where the app is running.
 
-Note: Ensure that you have the necessary Python packages installed and the `creditcard.csv` dataset available in the project directory before running the Streamlit app.
+**Note:** Ensure that you have the necessary Python packages installed and the `creditcard.csv` dataset available in the project directory before running the Streamlit app.
 
 
 
