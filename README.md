@@ -10,5 +10,5 @@ This project implements a machine learning model for detecting fraudulent credit
 - **Deployment:** Provides instructions for deploying the model to a production environment.
 
 ## Dataset :
-You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+You can download the dataset from [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
