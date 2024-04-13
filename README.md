@@ -16,7 +16,7 @@ You can download the dataset from [https://www.kaggle.com/datasets/mlg-ulb/credi
 
 To run the Streamlit app for detecting fraudulent credit card transactions, follow these steps:
 
-1. **Install Streamlit**: If you haven't already, install Streamlit using pip: pip install streamlit
+1. **Install Streamlit**: If you haven't already, install Streamlit using pip:   ```sh pip install streamlit
 
 
  
@@ -36,13 +36,7 @@ To run the Streamlit app for detecting fraudulent credit card transactions, foll
 
 Note: Ensure that you have the necessary Python packages installed and the `creditcard.csv` dataset available in the project directory before running the Streamlit app.
 
-## Running the Streamlit App
 
-To run the Streamlit app for detecting fraudulent credit card transactions, follow these steps:
-
-1. **Install Streamlit**: If you haven't already, install Streamlit using pip:
-   ```sh
-   pip install streamlit
 
 
 
